@@ -1,0 +1,15 @@
+{
+  "name": "kasir-api-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "supertest": "^6.1.6",
+    "chai": "^4.3.4",
+    "mocha": "^9.1.3"
+  }
+}
